@@ -39,17 +39,20 @@ app.post("/api/gen-img", async(req, res) => {
     `;
 
     try {
-        const response = await axios.post("https://api.openai.com/v1/images/generations", {
-            model: "dall-e-2",
-            prompt: myPrompt,
-            n: 1,
-            size: "256x256"
-        }, {
-            headers: {
-                "Content-Type": "application/json",
-                "Authorization": `Bearer: ${apiKey}`
+        const response = await axios.post("https://api.openai.com/v1/images/generations", 
+            {
+                model: "dall-e-2",
+                prompt: myPrompt,
+                n: 1,
+                size: "256x256"
+            },
+            {
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": `Bearer ${apiKey}`
+                }
             }
-        });
+        );
 
         const imageUrl = response.data.data[0].url;
 

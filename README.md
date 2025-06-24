@@ -1,4 +1,4 @@
-# Generador de imágenes de Avatar de usuario
+# Avatar Generator with OpenAI
 Generador de imágenes de Avatar usando **Inteligencia Artificial**.
 
 Aplicación que permite crear avatares personalizados a partir de descripciones escritas en lenguaje natural. Usa la **API de OpenAI** para generar imágenes con IA en base a los textos ingresados por el usuario.
@@ -14,7 +14,7 @@ Aplicación que permite crear avatares personalizados a partir de descripciones 
 <br>
 
 <a id="section_01"></a>
-## *01 Installation*
+## *01 ⚙️ Installation*
 
 - Clone the repository:
 
@@ -46,7 +46,7 @@ Aplicación que permite crear avatares personalizados a partir de descripciones 
 <br>
 
 <a id="section_02"></a>
-## *02 Languages and Technologies*
+## *02 💻 Languages and Technologies*
 
 ### FrontEnd
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,7 +72,7 @@ Aplicación que permite crear avatares personalizados a partir de descripciones 
 <br>
 
 <a id="section_03"></a>
-## *03 API Endpoints*
+## *03 🔗 API Endpoints*
 
 | HTTP Method | Endpoint           | Comentario                                    |
 |-------------|--------------------|-----------------------------------------------|

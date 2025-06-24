@@ -81,7 +81,7 @@ Aplicación que permite crear avatares personalizados a partir de descripciones 
 <br>
 
 <a id="section_04"></a>
-## 📌 Notes
+## 📌 *04 Notes*
 
 El generador está pensado para practicar con prompts visuales simples.
 
@@ -90,7 +90,7 @@ Requiere una cuenta activa en OpenAI con acceso a modelos de imagen (DALL·E).
 <br>
 
 <a id="section_05"></a>
-## 🧑‍💻 Author
+## 🧑‍💻 *05 Author*
 
 Proyecto desarrollado por **JOYJOS** como parte del curso de Udemy:  
 _“Desarrollo Web con IA: OpenAI, DeepSeek, JavaScript y NodeJS”_
@@ -98,6 +98,6 @@ _“Desarrollo Web con IA: OpenAI, DeepSeek, JavaScript y NodeJS”_
 <br>
 
 <a id="section_06"></a>
-## 📜 License
+## 📜 *06 License*
 
 Este proyecto está disponible bajo la licencia [MIT](LICENSE).

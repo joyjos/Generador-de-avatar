@@ -1,4 +1,4 @@
-## Generador de imágenes de Avatar de usuario
+# Generador de imágenes de Avatar de usuario
 Generador de imágenes de Avatar usando **Inteligencia Artificial**.
 
 Aplicación que permite crear avatares personalizados a partir de descripciones escritas en lenguaje natural. Usa la **API de OpenAI** para generar imágenes con IA en base a los textos ingresados por el usuario.
@@ -82,6 +82,13 @@ Aplicación que permite crear avatares personalizados a partir de descripciones 
 El generador está pensado para practicar con prompts visuales simples.
 
 Requiere una cuenta activa en OpenAI con acceso a modelos de imagen (DALL·E).
+
+<br>
+
+## 🧑‍💻 Autor
+
+Proyecto desarrollado por **JOYJOS** como parte del curso de Udemy:  
+_“Desarrollo Web con IA: OpenAI, DeepSeek, JavaScript y NodeJS”_
 
 <br>
 
